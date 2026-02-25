@@ -12,7 +12,7 @@ Este repositorio se utilizará para aplicar prácticas profesionales de:
 - Configuración de entornos
 - Control de versiones con Git
 - Depuración
-- Testing
+- Testing Automatizado con JUnit
 - Documentación técnica
 
 ## Tecnologías previstas
