@@ -5,7 +5,7 @@
 - Estudiante de Desarrollo de Aplicaciones Multiplataforma
 - Junior Developer en formación
 - Manejo de Java, Php y HTML
-- Experiencia con Apache NetBeans, PhpStorm, phpMyAdmin y mySQL.
+- Experiencia con Apache NetBeans, PhpStorm, phpMyAdmin y mySQL
 
 ## Objetivos 🎯
 Este repositorio se utilizará para aplicar prácticas profesionales de:
