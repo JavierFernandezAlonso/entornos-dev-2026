@@ -1,7 +1,7 @@
 # entornos-dev-2026
 # Entornos de Desarrollo – DEVNOVA
 
-## Sobre mí
+## Sobre mí 👇😄
 - Estudiante de Desarrollo de Aplicaciones Multiplataforma
 - Junior Developer en formación
 - Manejo de Java, Php y HTML
