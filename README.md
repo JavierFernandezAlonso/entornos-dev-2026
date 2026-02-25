@@ -1,13 +1,13 @@
 # entornos-dev-2026
 # Entornos de Desarrollo – DEVNOVA
 
-## Sobre mí 👇😄
+## Sobre mí 😊👇
 - Estudiante de Desarrollo de Aplicaciones Multiplataforma
 - Junior Developer en formación
 - Manejo de Java, Php y HTML
 - Experiencia con Apache NetBeans, PhpStorm, phpMyAdmin y mySQL.
 
-## Objetivo del repositorio
+## Objetivos 🎯
 Este repositorio se utilizará para aplicar prácticas profesionales de:
 - Configuración de entornos
 - Control de versiones con Git
@@ -15,7 +15,7 @@ Este repositorio se utilizará para aplicar prácticas profesionales de:
 - Testing Automatizado con JUnit
 - Documentación técnica
 
-## Tecnologías previstas
+## Tecnologías previstas 📚
 - Java
 - Git / GitHub
 - Eclipse 
